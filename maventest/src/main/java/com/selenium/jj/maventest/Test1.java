@@ -13,6 +13,7 @@ public class Test1 {
 		
 		driver.get("https:\\connect.maveric-systems.com");
 		driver.manage().window().maximize();
+		//Jai Bolo Bharat Maa ki
 	}
 
 }
